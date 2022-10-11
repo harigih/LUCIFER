@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/Ak_Bot_SupportGroup')
+                InlineKeyboardButton('💠 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💠', url='https://t.me/+AaJO1Ej6T441YjQ1')
             ],
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿 💠', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -87,15 +87,15 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/CC_autobot?startgroup=true')
+            InlineKeyboardButton('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕', url=f'http://t.me/CC_autobot?startgroup=true')
             ],[
-            InlineKeyboardButton('🤖 Creators', url='https://t.me/Ak_Bot_SupportGroup'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('💠 𝙲𝚁𝙴𝙰𝚃𝙾𝚁𝚂 💠', url='https://t.me/Hari_OP'),
+            InlineKeyboardButton('💠 𝙰𝙱𝙾𝚄𝚃 💠', callback_data='about')
             ],[
-            InlineKeyboardButton('😎 YOUTUBE', url='https://youtube.com/c/MADpsychoYT'),
-            InlineKeyboardButton('ℹ️ Help', callback_data='help')
+            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/tamilbubbed'),
+            InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿 💠', callback_data='help')
             ],[
-            InlineKeyboardButton('❤️ 𝓢𝓸𝓾𝓻𝓬𝓮', url='https://github.com/Akbotmakersnew/LUCIFER')
+            InlineKeyboardButton('♡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ♡', url='https://t.me/tamilhb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
