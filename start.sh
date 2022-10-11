@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Akbotmakersnew/LUCIFER.git /LUCIFER
+  git clone .https://github.com/harigih/LUCIFER/edit/master/start.shgit /LUCIFER
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /LUCIFER
