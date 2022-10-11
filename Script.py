@@ -4,21 +4,21 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Ak_Bot_SupportGroup>Team AkBotDevs</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Hari_OP>𝙷𝙱</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    ADMINS_TXT = """Hey Bruh,
-My name is LUCIFER
-- My Admins are:
-- @IAM_A_JOKER
-  @JINN_SULTHAN
-  @psychopath_here 
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅𝟷.𝟶.𝟷 [ 𝙱𝙴𝚃𝙰 ]"""
+    ADMINS_TXT = """𝙷𝚎𝚢 𝙱𝚛𝚞𝚑,
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝙷𝙰𝚁𝙸
+- 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂:
+- <a href=https://t.me/tamilhb>𝚃𝙰𝙼𝙸𝙻𝙷𝙱</a>
+- <a href=https://t.me/tamilbubbed>𝚃𝙰𝙼𝙸𝙻 𝙳𝚄𝙱𝙱𝙴𝙳 𝙼𝙾𝚅𝙸𝙴</a>
+𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/TAMIL_MOVIES_UPDATE_ms>𝙼𝚂</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/Ak_Bot_SupportGroup>Team AkBotDevs</a>"""
+- <a href=https://t.me/Hari_OP>𝙷𝙱</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LUCIFER will respond whenever a keyword is found the message
